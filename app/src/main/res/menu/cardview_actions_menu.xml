@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_water"
+        android:title="Water"/>
+    <item
+        android:id="@+id/action_fertilize"
+        android:title="Fertilize"/>
+    <item
+        android:id="@+id/action_delete"
+        android:title="Delete"/>
+</menu>

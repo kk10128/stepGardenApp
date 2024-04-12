@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="plant_sunflower_id">1</integer>
+    <integer name="plant_rose_id">2</integer>
+    <integer name="plant_tulip_id">3</integer>
+    <integer name="plant_cactus_id">4</integer>
+
+</resources>
